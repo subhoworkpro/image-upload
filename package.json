@@ -1,0 +1,14 @@
+{
+    "name": "image_upload",
+    "version": "0.0.1",
+    "description": "Image_Upload",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "multer": "^1.2.0"
+    },
+    "author": {
+        "name": "hfling"
+    }
+}
